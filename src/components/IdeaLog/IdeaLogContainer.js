@@ -35,6 +35,7 @@ const IdeaLogContainer = () => {
   const { status } = useSession();
 
   useEffect(() => {
+    if (status === "authenticated") return;
     dispatch(fetchIdeas());
   }, [status]);
 
