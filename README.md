@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img alt="Idealog logo" src="https://github.com/Imjoma/IdeaLog/blob/main/public/assets/images/2dolog-light-logo.svg" height="128">
+  <h1>Idealog- Web Application</h1>
 
-## Getting Started
+<a href="#"><img src="https://img.shields.io/badge/Build-Discontinued-red" alt="Build Status"></a>
 
-First, run the development server:
+<p>
+Idealog is a simple project management web plaform that allow users to interact with their project ideas as well as the community.
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align='center' > 
+<img src="https://github.com/Imjoma/IdeaLog/blob/main/public/assets/images/idealog-app-screenshot.png" alt="idealog-app-screenshot" title="Desktop Preview">
+<img  width='188px' src="https://github.com/Imjoma/IdeaLog/blob/main/public/assets/images/idealog-app-screenshot-mobile.jpg" alt="idealog-app-screenshot-mobile" title="Mobile Preview">
+</div>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Languages
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+ ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+ ![](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+ ![](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)
+ ![](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Discontinuation Reason
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Initially built to get hands on with Google Authentication and MongoDB Database
+- Spent a lot of resources from Google API and "Application error" that throws only on production 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Creator
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Built by: Jose Maria Ipio
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Date: July 26, 2024 - Cancelled
